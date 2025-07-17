@@ -1,22 +1,65 @@
 <h1 align="center">Hi 👋, I'm Avinash Thakare</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **ReactJS + Spring Boot Projects**
-- 🌱 I’m currently learning **Spring Security, Docker**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-- 📫 How to reach me: **yourmail@example.com**
-- ⚡ Fun fact: I love to explore new tech and build side projects
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p align="center">
+  <b>Passionate about building web & mobile applications using React.js, Java, Flutter, and more.</b><br>
+  <i>Currently pursuing MCA and actively building real-world projects with modern technologies.</i>
 </p>
 
-### 📊 GitHub Stats
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashthakare&show_icons=true&theme=radical)
+---
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+## 🚀 Tech Stack
+
+- **Languages:** JavaScript, PHP, Java, Dart, HTML, CSS
+- **Frontend:** React.js, jQuery, Bootstrap, Flutter
+- **Backend:** Laravel, Node.js, CodeIgniter
+- **Database:** MySQL, MongoDB
+- **Tools & Concepts:** Git, GitHub, REST APIs, VS Code, UI/UX Design, Responsive Web Design
+
+---
+
+## 📱 Projects
+
+### 🔍 TextPic – OCR Mobile App
+A Flutter-based mobile app for extracting and managing text from images.
+- Developed using Dart, Kotlin, and XML.
+- Secure user authentication with MySQL.
+- Performance-optimized for image processing and recognition.
+
+---
+
+## 💼 Internship Experience
+
+**Web Developer Intern – ICEICO Technologies Pvt. Ltd.**
+- Built responsive UI for a trading platform.
+- Created backend APIs with PHP and handled MySQL databases.
+- Integrated APIs and implemented user authentication for a secure system.
+- Optimized both frontend and backend performance.
+
+---
+
+## 📜 Certifications
+
+- **Generative AI Career Development** – Microsoft via LinkedIn Learning
+- **UX Design Certification** – Mastered user research, wireframing, and prototyping.
+- **Digital Productivity** – Mastered tools for collaboration and workflow.
+- **Research Paper** – Co-authored paper on "AI for Climate Change Solutions".
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 🎯 Future Goals
+
+- Dive deeper into Spring Boot & DevOps.
+- Contribute to open-source projects.
+- Build full-stack SaaS applications.
+
+---
+
+⭐️ Thank you for visiting my profile!
