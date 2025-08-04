@@ -18,21 +18,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-## 📱 Featured Project
-### 🔍 TextPic – OCR Mobile App
-> Flutter-based OCR mobile app to extract and manage text from images.
-- 📷 Built with **Flutter (Dart, Kotlin)** & native Android XML.
-- 🔐 User authentication with **MySQL**.
-- ⚙️ Optimized for performance and data security.
-
-## 💼 Internship Experience
-### Web Developer Intern – ICEICO Technologies
-- 💡 Built responsive trading dashboard using **HTML/CSS/JS**
-- 🔧 Developed backend API services in **PHP**
-- 🧠 Designed secure, scalable **MySQL** schemas
-- 🔗 Integrated external APIs for real-time data
-- 🔐 Implemented user authentication & validation
-
 ## 📜 Certifications
 | 📅 Date        | 🏆 Certification                                       |
 |---------------|--------------------------------------------------------|
