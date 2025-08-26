@@ -42,7 +42,7 @@
 - 🤝 Contribute to open-source projects
 - 🧩 Build full-stack SaaS products from scratch
 
-## 📬 Let's Connect (Optional Links)
+## 📬 Let's Connect
 
 <p >
   <a href="https://www.linkedin.com/in/avinash-thakare-15a0a32b5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
